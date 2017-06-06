@@ -144,7 +144,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A: "True!"
+// A: "False!"
 
 
 // 22.
@@ -153,7 +153,7 @@ if(""){
 } else {
 	console.log("False!");
 }
-// A: "True!"
+// A: "False!"
 
 
 // 23.
@@ -165,7 +165,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A: "True!"
+// A: "False!"
 
 
 // 24.
